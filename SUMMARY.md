@@ -17,4 +17,9 @@
   * [控制器URL](addons/gen-addons-url.md)
   * [可用钩子](addons/hook-intro.md)
   * [微信包](addons/use-easywechat.md)
+* 常用库
+  * [缓存](library/cache-library.md)
+  * [图片](library/image-library.md)
+  * [Http请求](library/http-request.md)
+  * [验证码](library/captcha-library.md)
 
