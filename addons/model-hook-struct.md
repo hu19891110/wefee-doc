@@ -13,7 +13,7 @@ class Hook
      */
     public function wefeeProcessEvent($params)
     {
-        //
+        //...
     }
 
 }
