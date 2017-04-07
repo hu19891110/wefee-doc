@@ -22,3 +22,19 @@ if (file_exists(__DIR__ . '/vendor/autoload.php')) {
 //...
 ```
 
+
+#### 注意事项
+
+`Wefee` 已经在默认加载了下面的包，请不要在插件中重复install：
+
++ qsnh/think-auth
++ overtrue/wechat
++ qsnh/think-addons
++ qsnh/think-repository
++ phootwork/file
++ qsnh/think-upload
++ topthink/think-queue
++ guzzlehttp/guzzle
++ topthink/think-image
++ topthink/think-captcha
++ anekdotes/file

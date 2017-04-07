@@ -1,5 +1,9 @@
 # Wefee.
 
+主页：[Wefee.cc](http://wefee.cc)  
+文档首页：[wefee.io](http://wefee.io)
+QQ群：487598183
+
 * [Wefee.](README.md)
   * [介绍](introduction/introduction.md)
   * [安装指导](getting-started/install-guide.md)
