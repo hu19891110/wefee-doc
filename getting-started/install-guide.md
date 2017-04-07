@@ -38,6 +38,10 @@ git clone https://git.oschina.net/wefee/Wefee.git
 php composer.phar install
 ```
 
+> 注意，配置到这里其实已经可以直接访问URL进行安装了，如果您继续通过命令行安装，请先配置：
+
+用 `data/install/tags.php` 文件替换掉 `app/tags.php` 文件。
+
 三、配置数据库信息：
 
 ```
