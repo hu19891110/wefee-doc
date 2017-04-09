@@ -1,7 +1,7 @@
 # Wefee.
 
-主页：[Wefee.cc](http://wefee.cc)  
-文档首页：[wefee.io](http://wefee.io)
+主页：[https://wefee.cc](http://wefee.cc)  
+文档首页：[https://wefee.io](http://wefee.io)
 QQ群：487598183
 
 * [Wefee.](README.md)
