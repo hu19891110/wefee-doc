@@ -1,8 +1,10 @@
 # Wefee.
 
 主页：[https://wefee.cc](http://wefee.cc)  
-文档首页：[https://wefee.io](http://wefee.io)
-QQ群：487598183
+开发文档：[https://wefee.io](http://wefee.io)
+一键安装包：[安装包下载](https://wefee.cc/install-package.html)
+
+QQ交流 ① 群：487598183
 
 * [Wefee.](README.md)
     * [介绍](introduction/introduction.md)
