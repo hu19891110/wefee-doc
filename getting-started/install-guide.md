@@ -1,12 +1,11 @@
-(此文原先为开发安装文档，现在不需要了，下载安装包直接自动化安装就可以了。)
+（如果安装错误，请下载最新安装包！）
 
 ### 环境要求
 
-* PHP版本 &gt;= 5.5.9。
+* PHP版本 &gt;= 5.6。
 * openssl 扩展。
 * rewrite 扩展。
 * fileinfo 扩展。
-* 命令行可以运行 php ，如：php -v
 
 ### 开始安装
 
@@ -35,12 +34,10 @@ git clone https://git.oschina.net/wefee/Wefee.git
 > 进入 wefee 安装目录，在命令号输入下面命令
 
 ```
-php composer.phar install
+composer install
 ```
 
-> 注意，配置到这里其实已经可以直接访问URL进行安装了，如果您继续通过命令行安装，请先配置：
-
-用 `data/install/tags.php` 文件替换掉 `app/tags.php` 文件。
+> 注意，配置到这里其实已经可以直接访问URL进行安装了。
 
 三、配置数据库信息：
 
@@ -65,12 +62,18 @@ php think seed:run
 
 六、登录后台：
 
+> 注意，这时你需要手动的创建一个安装锁文件：`data/install/install.lock` ，文件内容随意。
+
+```
+sudo vi ./data/install/install.lock
+```
+
+
 地址：`http://domain.com/admin`  
 账号：`admin`  
 密码：`ilovewefee`
 
 安装过程到此结束。^ - ^。
-
 
 
 编辑于：2017年02月23日

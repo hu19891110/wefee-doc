@@ -3,8 +3,7 @@
 主页：[https://wefee.cc](http://wefee.cc)  
 开发文档：[https://wefee.io](http://wefee.io)
 一键安装包：[安装包下载](https://wefee.cc/install-package.html)
-
-QQ交流 ① 群：487598183
+QQ群：[Wefee交流 ① 群](https://jq.qq.com/?_wv=1027&k=47TVaa9)
 
 * [Wefee.](README.md)
     * [介绍](introduction/introduction.md)
