@@ -28,8 +28,4 @@ Addonsign    插件标识
 
 #### 公共资源目录是用来干嘛的？
 
-答：公共资源目录是本插件前端所依赖的文件，比如：Jquery等。由于 `Thinkphp5` 是无法直接访问插件目录的，所以在插件安装的时候，系统会将 `./public/assets` 目录下的资源复制一份到 `/root/public/adddons/assets/addonsign/` 目录下面，您的插件在需要该资源的时候直接 `/addons/assets/addonsign/` + `原来目录` 便可以直接访问辣。
-
-
-
-编辑于：2017年02月23日
+答：公共资源目录是本插件前端所依赖的文件，比如：Jquery等。由于 `Thinkphp5` 是无法直接访问插件目录的，所以在插件安装的时候，系统会将 `./public/assets` 目录下的资源复制一份到 `/root/public/adddons/assets/addonsign/` 目录下面，您的插件在需要该资源的时候直接 `/addons/assets/addonsign/` + `原来目录` 便可以直接访问啦。

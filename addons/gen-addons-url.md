@@ -36,7 +36,3 @@ $request = request();
 
 var_dump($request->param());
 ```
-
-
-
- 编于：2017年02月27日

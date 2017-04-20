@@ -30,7 +30,6 @@ if (file_exists(__DIR__ . '/vendor/autoload.php')) {
 + qsnh/think-auth
 + overtrue/wechat
 + qsnh/think-addons
-+ qsnh/think-repository
 + phootwork/file
 + qsnh/think-upload
 + topthink/think-queue

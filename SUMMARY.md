@@ -1,13 +1,13 @@
 # Summary
 
-* [Wefee.](README.md)
+* Wefee
     * [介绍](introduction/introduction.md)
     * [更新记录](introduction/update-records.md)
     * [开发者安装](getting-started/install-guide.md)
 * 开发指导
     * [目录结构](dev/dir-structure.md)
     * [代码规范](dev/code-style.md)
-* [插件开发](.md)
+* 插件开发
     * [目录结构](addons/dir-struct.md)
     * [wefee.json](addons/wefee-json-struct.md)
     * [主文件](addons/adddo-main-file.md)

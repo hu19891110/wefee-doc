@@ -116,9 +116,4 @@ $res = wefee_request($method, $url, $data = [], $safe = false);
 
 你可以直接使用 `\GuzzleHttp\Client` 。
 
-具体用法请参考：[http://docs.guzzlephp.org/en/latest/quickstart.html#making-a-request](http://docs.guzzlephp.org/en/latest/quickstart.html#making-a-request) 。
-
-
-======================================================
-
-编辑于：2017年02月24日
+具体用法请参考：[http://docs.guzzlephp.org/en/latest/quickstart.html#making-a-request](http://docs.guzzlephp.org/en/latest/quickstart.html#making-a-request)

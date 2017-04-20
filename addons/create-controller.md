@@ -65,7 +65,3 @@ class Base {
 1、可以将需要权限判断的 `method` 填入 `$loginOnly` 中。
 
 2、获取将不需要权限判断的 `method` 填入 `$loginExcept` 中，是不是很方便？ ^ - ^ 。
-
-
-
-编辑与：2017年02月26日

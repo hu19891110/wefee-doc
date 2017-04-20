@@ -48,7 +48,3 @@
 ```
 $array = get_addon_config($addonsign);
 ```
-
-
-
-编辑于：2017年02月23

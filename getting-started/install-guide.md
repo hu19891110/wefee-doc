@@ -75,6 +75,3 @@ sudo vi ./data/install/install.lock
 
 安装过程到此结束。^ - ^。
 
-
-编辑于：2017年02月23日
-
