@@ -31,8 +31,6 @@ git clone https://git.oschina.net/wefee/Wefee.git
 
 二、安装依赖：
 
-> 进入 wefee 安装目录，在命令号输入下面命令
-
 ```
 composer install
 ```
@@ -45,8 +43,6 @@ composer install
 cp .env.example .env
 vi .env
 ```
-
-> 或者您可以手动复制 .env.example 文件重命名为 .env ，打开 .env 文件修改里面的数据库信息。
 
 四、安装数据库：
 

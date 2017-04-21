@@ -1,6 +1,6 @@
 # Wefee.
 
-[主页](http://wefee.cc) | [开发文档](http://wefee.io) | [更新记录](introduction/update-records.md) | [Wefee交流 ① 群](https://jq.qq.com/?_wv=1027&k=47TVaa9)  
+[主页](http://wefee.cc) | [开发文档](http://wefee.io) | [Wefee交流 ① 群](https://jq.qq.com/?_wv=1027&k=47TVaa9)  
 
 * Wefee
     * [介绍](introduction/introduction.md)
