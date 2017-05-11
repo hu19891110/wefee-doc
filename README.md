@@ -1,6 +1,6 @@
 # Wefee.
 
-[主页](http://wefee.cc) | [开发文档](http://wefee.io) | [Wefee交流 ① 群](https://jq.qq.com/?_wv=1027&k=47TVaa9)  
+[主页](http://wefee.cc) | [开发文档](http://wefee.io) | [Wefee交流 ① 群](https://jq.qq.com/?_wv=1027&k=47TVaa9) | [官方论坛](http://bbs.wefee.cc/)  
 
 * Wefee
     * [介绍](introduction/introduction.md)
@@ -22,6 +22,9 @@
     * [可用钩子](addons/hook-intro.md)
     * [微信组件](addons/use-easywechat.md)
     * [Composer](addons/use-composer.md)
+* 主题开发
+    * [配置](theme-dev/setting.md)
+    * [结构](theme-dev/dir-struct.md)
 * 常用库
     * [缓存](library/cache-library.md)
     * [图片](library/image-library.md)

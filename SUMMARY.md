@@ -20,6 +20,10 @@
     * [可用钩子](addons/hook-intro.md)
     * [微信组件](addons/use-easywechat.md)
     * [Composer](addons/use-composer.md)
+    * [自定义路由](addons/use-router.md)
+* 主题开发
+    * [配置](theme-dev/setting.md)
+    * [结构](theme-dev/dir-struct.md)
 * 常用库
     * [缓存](library/cache-library.md)
     * [图片](library/image-library.md)

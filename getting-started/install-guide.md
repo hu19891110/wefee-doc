@@ -69,5 +69,17 @@ sudo vi ./data/install/install.lock
 账号：`admin`  
 密码：`ilovewefee`
 
-安装过程到此结束。^ - ^。
 
+### 权限问题
+
+> 建议：最好给予 `wefee` 整个目录0777权限.
+
+
+### 伪静态配置
+
+Nginx:  
+```
+location / {
+    try_files $uri $uri/ /index.php?s=$uri&$args;
+}
+```
